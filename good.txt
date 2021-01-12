@@ -5,14 +5,9 @@ Raambabu
 
 Jampa
 
-<<<<<<< HEAD
 Persistent ,kk,ff
 
 Good | Brnchh
 
-change5
-=======
-Persistent 
 
->>>>>>> parent of 7568a0d (hh)
 
